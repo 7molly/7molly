@@ -4,10 +4,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6366F1" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=6366F1" alt="followers" />
-</p>
+
 
 ---
 
