@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YOUR_NAME+%F0%9F%91%8B;Software+Engineer;C%2B%2B+%7C+JS+%7C+Go+%7C+Swift+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+7molly+%F0%9F%91%8B;Software+Engineer;C%2B%2B+%7C+JS+%7C+Go+%7C+Swift+enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +13,7 @@
 
 ## 🚀 О себе
 
-Пишу код на нескольких языках, люблю системное программирование, веб и мобильную разработку.
-Ниже — стек, статистика и уникальный календарь активности по репозиториям.
+бэбэбэмэмэммэнэнэнэн
 
 ## 🛠️ Технологии
 
